@@ -1,6 +1,6 @@
 HEADER
 
-About me<!--
+About me
 
 Languages and tools
 
