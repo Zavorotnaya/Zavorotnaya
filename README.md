@@ -44,7 +44,7 @@ business and make customers' lives better.
 
 [Test-cases]()
 
-[Bug-Reports]()
+[Bug-Reports](https://github.com/Zavorotnaya/Bug-Reports)
 
 [SQL Queries]()
 
