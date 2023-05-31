@@ -48,7 +48,7 @@ business and make customers' lives better.
 
 [SQL Queries]()
 
-[Postman Collections]()
+[Postman Collections](https://github.com/Zavorotnaya/Postman_Collections)
 
 ## Follow me
 
