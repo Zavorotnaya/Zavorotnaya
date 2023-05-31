@@ -19,7 +19,7 @@ business and make customers' lives better.
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1yzFhdkEbCF1F7hYwJpsXspuKe1WQqkfk/view?usp=sharing)
 
-## Tools
+## Languages and Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=Postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat-square&logo=Swagger)
@@ -51,4 +51,6 @@ business and make customers' lives better.
 [Postman Collections]()
 
 ## Follow me
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zavorotnaya)
 
