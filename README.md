@@ -19,7 +19,7 @@ business and make customers' lives better.
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1yzFhdkEbCF1F7hYwJpsXspuKe1WQqkfk/view?usp=sharing)
 
-## Languages and tools
+## Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=Postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat-square&logo=Swagger)
@@ -36,8 +36,19 @@ business and make customers' lives better.
 ![Youtrack](https://img.shields.io/badge/-Youtrack-000000?style=flat-square&logo=Youtrack)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat-square&logo=Jira&logoColor=FF8C00)
 
-## Testing Documentation
+## OS
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat-square&logo=Windows&logoColor=FF8C00)
 
+## Testing Documentation
+[Checklists]()
+
+[Test-cases]()
+
+[Bug-Reports]()
+
+[SQL Queries]()
+
+[Postman Collections]()
 
 ## Follow me
 
