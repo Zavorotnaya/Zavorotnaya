@@ -40,7 +40,7 @@ business and make customers' lives better.
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat-square&logo=Windows&logoColor=FF8C00)
 
 ## Testing Documentation
-[Mind-maps]()
+[Mind-maps](https://github.com/Zavorotnaya/mind-maps)
 
 [Checklists](https://github.com/Zavorotnaya/checklists)
 
@@ -48,7 +48,7 @@ business and make customers' lives better.
 
 [Bug-Reports](https://github.com/Zavorotnaya/Bug-Reports)
 
-[SQL Queries]()
+[SQL Queries](https://github.com/Zavorotnaya/sql-queries)
 
 [Postman Collections](https://github.com/Zavorotnaya/Postman_Collections)
 
