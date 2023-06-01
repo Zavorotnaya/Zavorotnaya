@@ -40,9 +40,11 @@ business and make customers' lives better.
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat-square&logo=Windows&logoColor=FF8C00)
 
 ## Testing Documentation
-[Checklists]()
+[Mind-maps]()
 
-[Test-cases]()
+[Checklists](https://github.com/Zavorotnaya/checklists)
+
+[Test-cases](https://github.com/Zavorotnaya/test-cases)
 
 [Bug-Reports](https://github.com/Zavorotnaya/Bug-Reports)
 
