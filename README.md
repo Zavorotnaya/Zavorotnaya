@@ -37,7 +37,9 @@ business and make customers' lives better.
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat-square&logo=Jira&logoColor=FF8C00)
 
 ## OS
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat-square&logo=Windows&logoColor=FF8C00)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat-square&logo=Windows&logoColor=2AA1BE) 
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor) 
+
 
 ## Testing Documentation
 [Mind-maps](https://github.com/Zavorotnaya/mind-maps)
